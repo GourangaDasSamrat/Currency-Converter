@@ -8,6 +8,12 @@ This is a simple Currency Converter application built using HTML, CSS, and JavaS
 - Supports multiple currencies
 - Real-time exchange rates (ensure you have an API to fetch rates if needed)
 
+## Technologies 
+
+- HTML
+- CSS
+- JavaScript 
+
 ## Api
 
 https://api.exchangerate-api.com/
