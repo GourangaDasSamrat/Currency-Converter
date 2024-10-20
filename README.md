@@ -12,7 +12,21 @@ This is a simple Currency Converter application built using HTML, CSS, and JavaS
 
 - HTML
 - CSS
-- JavaScript 
+- JavaScript
+
+## How To Use
+
+Clone or download the project
+
+## Technologies 
+
+- HTML
+- CSS
+- JavaScript
+
+### Prerequisites
+
+- A modern web browser (Chrome, Firefox, etc.)
 
 ## Api
 
