@@ -31,3 +31,9 @@ Clone or download the project
 ## Api
 
 https://api.exchangerate-api.com/
+
+## Demo
+
+
+https://github.com/user-attachments/assets/eb13b3e4-c146-4d3a-9098-248e8029d5bb
+
