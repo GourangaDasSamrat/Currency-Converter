@@ -36,8 +36,9 @@ Make sure you have:
 1.  Clone the repository to your local machine using git:
 
     ```bash
-    git clone <repository_url_here>
+    git clone  https://github.com/GourangaDasSamrat/Currency-Converter.git
     ```
+   
 
 
 2.  Navigate into the project directory:
