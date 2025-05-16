@@ -39,7 +39,6 @@ Make sure you have:
     git clone <repository_url_here>
     ```
 
-    *(Note: Replace `<repository_url_here>` with the actual URL of your GitHub repository.)*
 
 2.  Navigate into the project directory:
 
